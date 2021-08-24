@@ -7,7 +7,7 @@
 %       - Feb 11, 2021: added more instructions by CK 
 %       - Jun 29, 2021: added weighed sum method by Patra
 %       - Jul 01, 2021: fixed bugs in sum/weight calculation by CK 
-%
+%       - Aug 10,2021: shows that cross mapping of Y using M_X fails; however, the cross map of X succeeds by Patra
 %==========================================================================
 %
 % Generate logistic output data arrays now
